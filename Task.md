@@ -1,6 +1,3 @@
-
-Tareas 
-
 <br><h1> Website </h1><br>
 1. Website ( Pedro Rojas - Lisbeth Moreno  ) <br>
 1.1 Website Contenido  ( Lisbeth Moreno )<br>
