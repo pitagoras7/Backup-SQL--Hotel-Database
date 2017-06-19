@@ -2,16 +2,16 @@
 Tareas 
 
 <br><h1> Website </h1><br>
-0 Website ( Pedro Rojas - Lisbeth Moreno  ) <br>
-0.1 Website Contenido  ( Lisbeth Moreno )<br>
-0.2 Construción d estructura  <br>
-0.3 Hosting - dominio  ( Lisbeth Moreno )<br>
-0.4 Landing Page Contenido ( Lisbeth Moreno )<br>
-0.5 Subir el Website ( Pedro Rojas )<br>
-0.6 construccion del documento  del modelo de negocio ( Lisbeth Moreno - Pedro Rojas )<br>
+1. Website ( Pedro Rojas - Lisbeth Moreno  ) <br>
+1.1 Website Contenido  ( Lisbeth Moreno )<br>
+1.2 Construción d estructura  <br>
+1.3 Hosting - dominio  ( Lisbeth Moreno )<br>
+1.4 Landing Page Contenido ( Lisbeth Moreno )<br>
+1.5 Subir el Website ( Pedro Rojas )<br>
+1.6 construccion del documento  del modelo de negocio ( Lisbeth Moreno - Pedro Rojas )<br>
 
 <br><h1> Webservice </h1><br>
-1. Webservice ( Juan Martinez)<br>
+1. Webservice   ( Juan Martinez)<br>
 1.1 Modelo DB ( Pedro Rojas  - Juan Martinez )<br>
 1.2 Tablas DB ( Pedro Rojas - Juan Martinez )<br>
 
