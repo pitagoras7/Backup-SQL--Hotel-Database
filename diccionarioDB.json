@@ -1,5 +1,5 @@
 {
-  " action ": {
+  " action ": {*
     "action_id": " ID PRIMARIA DE LA TABLA",
     "name": "NOMBRE CORTO DE LA ACCION ",
     "longname": "NOMBRE LARGO DE LA ACCION",
